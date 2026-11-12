@@ -1,0 +1,5 @@
+{
+  "name": "claude-task-progress",
+  "owner": { "name": "dpoGit" },
+  "plugins": [{ "name": "task-progress", "source": "./" }]
+}
